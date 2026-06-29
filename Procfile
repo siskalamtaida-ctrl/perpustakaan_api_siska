@@ -1,0 +1,1 @@
+web: gunicorn perpustakaan_project.wsgi
